@@ -25,6 +25,9 @@ clawdbot 分本地部署和线上部署两种方式💻，本地部署对 GPU �
 （好像额度变小了，我的ip不够纯，ping0.cc可以测试vpn的纯度）
 # 第三种
 1.这就需要自己购买国外的vps了，查资料的时候看到这个meowvps.com/blog很全面，给贴出来了先。
-2.我自己在https://www.racknerd.com  上买的，算比较便宜了，搭建自己的服务器70多一年，加clawdbot可能就要140左右了。  
+2.我自己在https://www.racknerd.com  上买的，算比较便宜了，搭建自己的服务器70多一年，加clawdbot可能就要140左右了（可以使用支付宝）。  
 ![racknerd](image/2.png)
 ![racknerd2](image/3.png)
+当然，大家可以自行决定套餐类型。
+
+
