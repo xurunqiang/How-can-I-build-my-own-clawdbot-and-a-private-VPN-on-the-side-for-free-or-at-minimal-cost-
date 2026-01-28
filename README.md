@@ -59,5 +59,5 @@ macOS 同样**默认内置 SSH 客户端**，直接在「终端」里输入 `ssh
 再复制指令curl -fsSL https://molt.bot/install.sh | bash
 之后按步骤填写api,配对bot即可（晚点更新图片，第一次弄的时候没截图）
 
-# 私人VPN
+# 三、私人VPN
 有了国外vps一切好办，在github上搜素VPN，第二条就是，相当方便。
