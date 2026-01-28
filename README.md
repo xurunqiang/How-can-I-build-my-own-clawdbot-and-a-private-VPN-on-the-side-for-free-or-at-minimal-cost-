@@ -29,5 +29,28 @@ clawdbot 分本地部署和线上部署两种方式💻，本地部署对 GPU �
 ![racknerd](image/2.png)
 ![racknerd2](image/3.png)
 当然，大家可以自行决定套餐类型。
+# 二、接下来就开始部署把
+1.连接自己的vps，我喜欢用ssh进行连接
+不同系统下的 SSH 情况
+1. **Linux 系统（如 Ubuntu、CentOS、Debian 等）**
+SSH 是 Linux 系统的标配组件，**默认已预装**，不需要单独下载。
+- 你可以直接在终端输入 `ssh` 命令验证：
+```bash
+ssh -V  # 查看 SSH 版本，验证是否安装
+```
+- 如果极少数情况未安装（比如极简版系统），只需通过系统包管理器安装即可：
+```bash
+# Ubuntu/Debian 系列
+sudo apt update && sudo apt install openssh-client
+# CentOS/RHEL 系列
+sudo yum install openssh-clients
+```
+2. **macOS 系统**
+macOS 同样**默认内置 SSH 客户端**，直接在「终端」里输入 `ssh` 命令即可使用，无需下载。
+3. **Windows 系统**
+- **Windows 10 1809 及以上版本 / Windows 11**：微软已内置 OpenSSH 客户端，默认启用（若未启用，可通过「设置 > 应用 > 可选功能 > 添加功能」搜索「OpenSSH 客户端」安装）。
+- **Windows 7/8/早期 Win10 版本**：需要单独下载 SSH 工具，推荐使用：
+- **OpenSSH for Windows**（微软官方）：可通过 Chocolatey 包管理器安装 `choco install openssh`；
+- **PuTTY**（第三方常用工具）：官网下载（https://www.putty.org/），是图形化 SSH 客户端，也包含 `pscp`/`plink` 等命令行工具。
 
 
