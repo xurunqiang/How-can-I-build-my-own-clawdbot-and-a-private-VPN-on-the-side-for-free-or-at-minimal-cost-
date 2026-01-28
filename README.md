@@ -1,1 +1,2 @@
-# How-can-I-build-my-own-clawdbot-and-a-private-VPN-on-the-side-for-free-or-at-minimal-cost-
+# 免费或者尽可能少的钱去搭建自己的clawdbot（附带一个私人的VPN）
+经过这几天的资料查询和研究，将网上的各种搭建自己的clawdbot的方法总结了一下。归纳后有以下几点：
