@@ -11,4 +11,3 @@ clawdbot 分本地部署和线上部署两种方式💻，本地部署对 GPU �
 1.（先说免费的）想必和多人也知道就是就是注册aws免费送。
 首先，打开亚马逊云服务器官网，完成账号注册 / 登录（aws.amazon.com）
 
-![Uploading image.png…]()
