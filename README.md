@@ -52,12 +52,13 @@ macOS 同样**默认内置 SSH 客户端**，直接在「终端」里输入 `ssh
 - **Windows 7/8/早期 Win10 版本**：需要单独下载 SSH 工具，推荐使用：
 - **OpenSSH for Windows**（微软官方）：可通过 Chocolatey 包管理器安装 `choco install openssh`；
 - **PuTTY**（第三方常用工具）：官网下载（https://www.putty.org/），是图形化 SSH 客户端，也包含 `pscp`/`plink` 等命令行工具。
-
+![4](image/4.png)
 # 2.连接成功后打开https://docs.molt.bot/start/getting-started  
 （可以找到按照指令，我这里也提供）
+![5](image/5.png)
 然后在终端先输入apt install curl  
 再复制指令curl -fsSL https://molt.bot/install.sh | bash
 之后按步骤填写api,配对bot即可（晚点更新图片，第一次弄的时候没截图）
-
+![6](image/6.png)
 # 三、私人VPN
 有了国外vps一切好办，在github上搜素VPN，第二条就是，相当方便。
