@@ -21,7 +21,9 @@ clawdbot 分本地部署和线上部署两种方式💻，本地部署对 GPU �
 5.实例启动后点击连接→确认连接  
 6.随后会弹出黑色的终端操作窗口
 # 第二种
-1.（按道理也是免费的）但是好像要纯净的vpn,这里有教程https://www.ahhhhfs.com/79099/。（好像额度变小了，我的ip不够纯，ping0.cc可以测试vpn的纯度）
+1.（按道理也是免费的）但是好像要纯净的vpn,这里有教程https://www.ahhhhfs.com/79099/  
+（好像额度变小了，我的ip不够纯，ping0.cc可以测试vpn的纯度）
 # 第三种
 1.这就需要自己购买国外的vps了，查资料的时候看到这个meowvps.com/blog很全面，给贴出来了先。
-2.我自己在https://www.racknerd.com  上买的，算比较便宜了，如果你只想搭建一个私人的vpn，70多块一年。可以买这个套餐
+2.我自己在https://www.racknerd.com  上买的，算比较便宜了，搭建自己的服务器70多一年，加clawdbot可能就要140左右了。  
+![racknerd](image/2.png)
